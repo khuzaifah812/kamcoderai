@@ -1,2 +1,0 @@
-# KamcoderAI
-its about AI
